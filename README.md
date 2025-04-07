@@ -117,7 +117,7 @@ For other platforms, see the [uv installation guide](https://docs.astral.sh/uv/g
    - Windows: `"C:\\Users\\MyUser\\GitHub\\jupyter-notebook-mcp\\src\\"`
    - Mac: `/Users/MyUser/GitHub/jupyter-notebook-mcp/src/`
 
-   ![Notebook setup](/assets/img/notebook-setup.png)
+   ![Notebook setup](notebook-setup.png)
 
 4. Launch Claude desktop with MCP enabled.
 
